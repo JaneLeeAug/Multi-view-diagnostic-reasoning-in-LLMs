@@ -10,7 +10,7 @@ Clinical diagnosis requires integrating multiple complementary reasoning strateg
 
 ## 📁 Repository Structure
 
-## Usage
+## 🚀 Usage
 
 ## 📊 Datasets
 
