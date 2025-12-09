@@ -5,3 +5,13 @@ Clinical diagnosis requires integrating multiple complementary reasoning strateg
 
 - **Collaborative Multi-Agent Diagnostic Reasoning**
 - **Internalized Multi-View Reasoning**
+
+## 🔍 Overview
+
+## 📁 Repository Structure
+
+## Usage
+
+## 📊 Datasets
+
+## 🔗 Citation
