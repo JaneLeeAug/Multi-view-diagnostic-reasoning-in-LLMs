@@ -8,6 +8,18 @@ Clinical diagnosis requires integrating multiple complementary reasoning strateg
 
 ## 🔍 Overview
 
+## 🛠 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/JaneLeeAug/Multi-view-diagnostic-reasoning-in-LLMs.git
+cd Multi-view-diagnostic-reasoning-in-LLMs
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+
 ## 📁 Repository Structure
 
 ## 🚀 Usage
