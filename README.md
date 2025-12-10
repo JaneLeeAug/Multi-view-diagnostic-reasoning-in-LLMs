@@ -30,7 +30,7 @@ Multi-view-diagnostic-reasoning-in-LLMs/
 │   ├── multi-agent_round1.ipynb
 │   └── multi-agent_round2.ipynb
 ├── Internalized Multi-View Reasoning/
-│   ├──gpt-oss-120b_API.ipynb
+│   ├── gpt-oss-120b_API.ipynb
 │   ├── data/
 │   │   ├── gpt-4o_training_data.xlsx
 │   │   ├── gpt-oss-120b_training_data.xlsx
