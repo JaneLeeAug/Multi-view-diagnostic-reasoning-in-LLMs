@@ -1,3 +1,28 @@
+#
+# Copyright [2024-] [Unsloth AI, Daniel Han-Chen & Michael Han-Chen]
+# Copyright [2025] [National Taiwan University Natural Language Processing Lab] (modifications)
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+# **MODIFICATION NOTICE:**
+# This file has been modified by [National Taiwan University Natural Language Processing Lab]. 
+# **Key modifications include:**
+#
+# 1. **Data Loading:** Adjusted the method for reading and processing the dataset to fit new formats/requirements.
+# 2. **Execution Method:** Changes made to the program's execution logic and structure (e.g., adapted for a different computing environment or API usage).
+#
+# All other terms and conditions of the Apache License, Version 2.0 apply.
+
 """
 !uv pip install "torch>=2.8.0" "triton>=3.4.0" numpy torchvision bitsandbytes "transformers>=4.55.3"
 !uv pip install "unsloth_zoo[base] @ git+https://github.com/unslothai/unsloth-zoo"
@@ -6,7 +31,6 @@
 !uv pip install --upgrade --no-deps transformers==4.56.2 tokenizers
 !uv pip install --no-deps trl==0.22.2
 """
-
 
 import os
 import sys
