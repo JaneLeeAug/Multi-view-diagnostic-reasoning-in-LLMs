@@ -72,4 +72,4 @@ This two-step process ensures that agents first reason independently and then co
    | **Mistral 7B Instruct v0.3**    | [Open Notebook](https://colab.research.google.com/drive/1Uz6vhClCYjFxn5h-aj9cua7wJ96Sc32L?usp=sharing) |
    | **Phi-4 Mini Instruct**         | [Open Notebook](https://colab.research.google.com/drive/1AhWKg44x_1Ssmpn655V3SU5cKLYteRBI?usp=sharing) |
 
-5. The responses of both raw and fine-tuned student models are summarized in **`results.xlsx`**.
+5. The responses of both raw and fine-tuned student models are summarized in `results.xlsx`.
