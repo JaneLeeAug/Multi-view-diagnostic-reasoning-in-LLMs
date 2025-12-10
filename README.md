@@ -58,16 +58,11 @@ This two-step process ensures that agents first reason independently and then co
 
 ### Internalized Multi-View Reasoning
 
-1. The teacher model generates training data using **`multi-agent_round1.ipynb`** and **`gpt-oss-120b_API.ipynb`**, saved as:
+1. The teacher model generates training data using **`multi-agent_round1.ipynb`** and **`gpt-oss-120b_API.ipynb`**, saved as **`gpt-4o_training_data.xlsx`** and **`gpt-oss-120b_training_data.xlsx`**. Either dataset can be converted into a CSV file for training.
 
-   - `gpt-4o_training_data.xlsx`
-   - `gpt-oss-120b_training_data.xlsx`
+3. The dataset used to evaluate the student model is **`testing_data.csv`**.
 
-   Either dataset can be converted into a CSV file for training.
-
-2. The dataset used to evaluate the student model is **`testing_data.csv`**.
-
-3. Run the corresponding script or Colab notebook depending on the student model:
+4. Run the corresponding script or Colab notebook depending on the student model:
 
    | Student Model                   | Script / Notebook |
    |---------------------------------|-------------------|
@@ -77,4 +72,4 @@ This two-step process ensures that agents first reason independently and then co
    | **Mistral 7B Instruct v0.3**    | [Open Notebook](https://colab.research.google.com/drive/1Uz6vhClCYjFxn5h-aj9cua7wJ96Sc32L?usp=sharing) |
    | **Phi-4 Mini Instruct**         | [Open Notebook](https://colab.research.google.com/drive/1AhWKg44x_1Ssmpn655V3SU5cKLYteRBI?usp=sharing) |
 
-4. The responses of both raw and fine-tuned student models are summarized in **`results.xlsx`**.
+5. The responses of both raw and fine-tuned student models are summarized in **`results.xlsx`**.
