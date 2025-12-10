@@ -1,4 +1,4 @@
-Clinical Diagnosis Needs More Than One Mind: Multi-View Diagnostic Reasoning in Large Language Models
+<img width="640" height="888" alt="image" src="https://github.com/user-attachments/assets/c48ed391-3683-4dd3-961d-d2bea40e568f" />Clinical Diagnosis Needs More Than One Mind: Multi-View Diagnostic Reasoning in Large Language Models
 ---
 
 Clinical diagnosis requires integrating multiple complementary reasoning strategies. This project explores two approaches to enable LLMs to “reason with more than one mind”:
@@ -18,9 +18,28 @@ cd Multi-view-diagnostic-reasoning-in-LLMs
 # Install dependencies
 pip install -r requirements.txt
 ```
-
-
 ## 📁 Repository Structure
+
+Multi-view-diagnostic-reasoning-in-LLMs/
+├── Collaborative Multi-Agent Reasoning/
+│   ├── GPT-4_multi-agent.xlsx
+│   ├── GPT-4o_multi-agent.xlsx
+│   ├── multi-agent_round1.ipynb
+│   └── multi-agent_round2.ipynb
+├── Internalized Multi-View Reasoning/
+│   ├── data/
+│   │   ├── gpt-4o_training_data.xlsx
+│   │   ├── gpt-oss-120b_training_data.xlsx
+│   │   └── results.xlsx
+│   └── script/
+│       ├── gpt-oss-20b.py
+│       ├── gpt-oss-120b.py
+│       ├── llama-3.1_8b.ipynb
+│       ├── mistral-7b-instruct-v0.3.ipynb
+│       ├── phi-4-mini-instruct.ipynb
+│       └── gpt-oss-120b_API.ipynb
+├── README.md
+└── requirements.txt
 
 ## 🚀 Usage
 
@@ -55,6 +74,3 @@ This two-step process ensures that agents first reason independently and then co
    | **Phi-4 Mini Instruct**         | [Open Notebook](https://colab.research.google.com/drive/1AhWKg44x_1Ssmpn655V3SU5cKLYteRBI?usp=sharing) |
 
 4. The responses of both raw and fine-tuned student models are summarized in **`results.xlsx`**.
-
-
-## 🔗 Citation
