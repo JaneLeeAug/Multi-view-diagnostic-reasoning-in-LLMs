@@ -1,4 +1,4 @@
-<img width="640" height="888" alt="image" src="https://github.com/user-attachments/assets/c48ed391-3683-4dd3-961d-d2bea40e568f" />Clinical Diagnosis Needs More Than One Mind: Multi-View Diagnostic Reasoning in Large Language Models
+Clinical Diagnosis Needs More Than One Mind: Multi-View Diagnostic Reasoning in Large Language Models
 ---
 
 Clinical diagnosis requires integrating multiple complementary reasoning strategies. This project explores two approaches to enable LLMs to “reason with more than one mind”:
