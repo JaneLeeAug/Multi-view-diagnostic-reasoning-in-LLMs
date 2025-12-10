@@ -1,12 +1,14 @@
 Clinical Diagnosis Needs More Than One Mind: Multi-View Diagnostic Reasoning in Large Language Models
 ---
 
-Clinical diagnosis requires integrating multiple complementary reasoning strategies. This project explores two approaches to enable LLMs to “reason with more than one mind”:
-
-- **Collaborative Multi-Agent Diagnostic Reasoning**
-- **Internalized Multi-View Reasoning**
+Current LLM methodologies generally lack multi-perspective reasoning, limiting their ability to emulate collaborative deliberation in clinical teams. This project aims to equip language models with the capability for multi-view diagnostic reasoning.
 
 ## 🔍 Overview
+
+This project explores two approaches to enable LLMs to reason with “more than one mind”:  
+
+- **Collaborative Multi-Agent Diagnostic Reasoning:** multiple agents reason independently and then collaborate to refine diagnoses.  
+- **Internalized Multi-View Reasoning:** a single model learns to integrate multiple reasoning perspectives from teacher-generated data.  
 
 ## 🛠 Installation
 
