@@ -58,9 +58,9 @@ This two-step process ensures that agents first reason independently and then co
 
 ### Internalized Multi-View Reasoning
 
-1. The teacher model generates training data using **`multi-agent_round1.ipynb`** and **`gpt-oss-120b_API.ipynb`**, saved as **`gpt-4o_training_data.xlsx`** and **`gpt-oss-120b_training_data.xlsx`**. Either dataset can be converted into a CSV file for training.
+1. The teacher model generates training data using `multi-agent_round1.ipynb` and `gpt-oss-120b_API.ipynb`, saved as `gpt-4o_training_data.xlsx` and `gpt-oss-120b_training_data.xlsx`. Either dataset can be converted into a CSV file for training.
 
-3. The dataset used to evaluate the student model is **`testing_data.csv`**.
+3. The dataset used to evaluate the student model is `testing_data.csv`.
 
 4. Run the corresponding script or Colab notebook depending on the student model:
 
