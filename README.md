@@ -20,6 +20,7 @@ pip install -r requirements.txt
 ```
 ## 📁 Repository Structure
 
+```
 Multi-view-diagnostic-reasoning-in-LLMs/
 ├── Collaborative Multi-Agent Reasoning/
 │   ├── GPT-4_multi-agent.xlsx
@@ -40,6 +41,7 @@ Multi-view-diagnostic-reasoning-in-LLMs/
 │       └── gpt-oss-120b_API.ipynb
 ├── README.md
 └── requirements.txt
+```
 
 ## 🚀 Usage
 
