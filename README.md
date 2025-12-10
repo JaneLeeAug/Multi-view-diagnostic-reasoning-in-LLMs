@@ -45,14 +45,12 @@ This two-step process ensures that agents first reason independently and then co
 
 3. Run the corresponding script or Colab notebook depending on the student model:
 
-| Student Model                   | Script / Notebook |
-|---------------------------------|-------------------|
-| **gpt-oss-20b**                 | `gpt-oss-20b.py` |
-| **gpt-oss-120b**                | `gpt-oss-120b.py` |
-| **LLaMA 3.1 8B**                | [Open Notebook](https://colab.research.google.com/drive/1G2wBf3C9V4Ita5O1TZLKn9JxyVFkWzPd?usp=sharing) |
-| **Mistral 7B Instruct v0.3**    | [Open Notebook](https://colab.research.google.com/drive/1Uz6vhClCYjFxn5h-aj9cua7wJ96Sc32L?usp=sharing) |
-| **Phi-4 Mini Instruct**         | [Open Notebook](https://colab.research.google.com/drive/1AhWKg44x_1Ssmpn655V3SU5cKLYteRBI?usp=sharing) |
-
-
+   | Student Model                   | Script / Notebook |
+   |---------------------------------|-------------------|
+   | **gpt-oss-20b**                 | `gpt-oss-20b.py` |
+   | **gpt-oss-120b**                | `gpt-oss-120b.py` |
+   | **LLaMA 3.1 8B**                | [Open Notebook](https://colab.research.google.com/drive/1G2wBf3C9V4Ita5O1TZLKn9JxyVFkWzPd?usp=sharing) |
+   | **Mistral 7B Instruct v0.3**    | [Open Notebook](https://colab.research.google.com/drive/1Uz6vhClCYjFxn5h-aj9cua7wJ96Sc32L?usp=sharing) |
+   | **Phi-4 Mini Instruct**         | [Open Notebook](https://colab.research.google.com/drive/1AhWKg44x_1Ssmpn655V3SU5cKLYteRBI?usp=sharing) |
 
 ## 🔗 Citation
